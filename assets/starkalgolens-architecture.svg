@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="starkTitle starkDesc">
+<svg viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="starkTitle starkDesc">
   <title id="starkTitle">StarkAlgoLens architecture diagram</title>
   <desc id="starkDesc">Flow diagram: user code into React UI into FastAPI backend, branching into Tree-sitter analysis, Docker secure execution, and AI engine, converging into a MySQL, MongoDB and Firebase persistence layer, then developer insights</desc>
   <defs>
@@ -18,9 +18,9 @@
     </marker>
   </defs>
 
-  <rect width="1200" height="700" fill="url(#bg3)"/>
-  <rect width="1200" height="700" fill="url(#grid3)"/>
-  <rect x="12" y="12" width="1176" height="676" rx="16" fill="#0b1220" fill-opacity="0.3" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.2"/>
+  <rect width="1200" height="720" fill="url(#bg3)"/>
+  <rect width="1200" height="720" fill="url(#grid3)"/>
+  <rect x="12" y="12" width="1176" height="696" rx="16" fill="#0b1220" fill-opacity="0.3" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.2"/>
 
   <text x="600" y="46" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="22" fill="#e6f6ff" letter-spacing="1.5" filter="url(#g3)">STARKALGOLENS — SYSTEM ARCHITECTURE</text>
 

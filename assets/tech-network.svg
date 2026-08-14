@@ -129,10 +129,12 @@
     <line x1="820" y1="478" x2="740" y2="555"/>
     <line x1="820" y1="478" x2="820" y2="580"/>
     <line x1="820" y1="478" x2="900" y2="555"/>
+    <line x1="820" y1="478" x2="960" y2="580"/>
   </g>
   <g font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#d1fae5">
     <a href="https://www.cisco.com/"><circle cx="740" cy="555" r="4" fill="#34d399"/><text x="748" y="559">Cisco</text></a>
     <a href="https://www.juniper.net/"><circle cx="820" cy="580" r="4" fill="#34d399"/><text x="828" y="584">Juniper</text></a>
     <a href="https://www.pfsense.org/"><circle cx="900" cy="555" r="4" fill="#34d399"/><text x="908" y="559">pfSense</text></a>
+    <a href="https://www.proxmox.com/"><circle cx="960" cy="580" r="4" fill="#34d399"/><text x="968" y="584">Proxmox</text></a>
   </g>
 </svg>

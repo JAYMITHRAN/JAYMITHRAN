@@ -44,17 +44,17 @@ I'm an **AI/ML undergraduate** with strong foundations in **Python, Java, Comput
 ## 🧬 AI × SOFTWARE × NETWORKING
 
 ```
-                     ┌──────────────┐
-                     │    AI / ML    │
-                     └───────┬──────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-        ┌───────────┐  ┌───────────┐  ┌────────────┐
-        │ SOFTWARE  │  │ NETWORKING│  │ AUTOMATION │
-        │ ENGINEERING│  │/INFRASTRUC│  │            │
-        └───────────┘  └───────────┘  └────────────┘
+                        ┌──────────────┐
+                        │    AI / ML    │
+                        └───────┬──────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+     ┌──────────────────┐  ┌────────────────┐  ┌────────────┐
+     │     SOFTWARE     │  │  NETWORKING /  │  │ AUTOMATION │
+     │   ENGINEERING    │  │ INFRASTRUCTURE │  │            │
+     └──────────────────┘  └────────────────┘  └────────────┘
 ```
 
 <table width="100%">
@@ -229,11 +229,13 @@ I'm an **AI/ML undergraduate** with strong foundations in **Python, Java, Comput
     <line x1="820" y1="478" x2="740" y2="555"/>
     <line x1="820" y1="478" x2="820" y2="580"/>
     <line x1="820" y1="478" x2="900" y2="555"/>
+    <line x1="820" y1="478" x2="960" y2="580"/>
   </g>
   <g font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#d1fae5">
     <a href="https://www.cisco.com/"><circle cx="740" cy="555" r="4" fill="#34d399"/><text x="748" y="559">Cisco</text></a>
     <a href="https://www.juniper.net/"><circle cx="820" cy="580" r="4" fill="#34d399"/><text x="828" y="584">Juniper</text></a>
     <a href="https://www.pfsense.org/"><circle cx="900" cy="555" r="4" fill="#34d399"/><text x="908" y="559">pfSense</text></a>
+    <a href="https://www.proxmox.com/"><circle cx="960" cy="580" r="4" fill="#34d399"/><text x="968" y="584">Proxmox</text></a>
   </g>
 </svg>
 
@@ -262,7 +264,7 @@ Under the hood:
 - 🧩 **Code-pattern identification**
 - 🐳 **Docker-isolated code execution** across Python, Java, and C++
 - 🧠 **Groq API** for AI-driven feedback and guidance
-- 🗄️ **MySQL, MongoDB &amp; Firebase** persistence layer
+- 🗄️ **MySQL, MongoDB & Firebase** persistence layer
 - 📈 Personalized learning roadmaps and progress tracking
 
 </td>
@@ -347,7 +349,7 @@ A private, on-premises network built and administered end-to-end — not just we
 <!-- ACHIEVEMENTS                                                  -->
 <!-- ============================================================ -->
 
-## 🏆 Achievements &amp; Education
+## 🏆 Achievements & Education
 
 <div align="center">
 <img src="./assets/achievements.svg" alt="Achievements: India Skills Competition South Region Bronze Medalist in IT Network System Administration, Student Trainer for a six-month networking fundamentals program, and languages English, Tamil, Telugu" width="100%" />
@@ -366,7 +368,7 @@ A private, on-premises network built and administered end-to-end — not just we
 ## 📡 GitHub Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JAYMITHRAN/JAYMITHRAN/output/dist/snake-dark.svg" alt="Jaymithran's animated GitHub contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/JAYMITHRAN/JAYMITHRAN/output/snake-dark.svg" alt="Jaymithran's animated GitHub contribution snake" width="100%" />
 </div>
 
 > The contribution snake is generated automatically by the `snake.yml` GitHub Action (see [Setup](#-setup--configuration) below) and regenerates daily from real contribution data.
@@ -413,7 +415,7 @@ A private, on-premises network built and administered end-to-end — not just we
         │           │  │  Systems    │  │  Solving   │
         └───────────┘  └─────────────┘  └────────────┘
 
-              ┌───────────────┬────────────────┐
+              ┌────────────────────────────────┐
               ▼                                ▼
         ┌─────────────┐              ┌──────────────────┐
         │  Computer   │              │  Infrastructure   │
@@ -432,8 +434,8 @@ A private, on-premises network built and administered end-to-end — not just we
 ```
                     JAYMITHRAN
                         │
-         ┌──────────────┼──────────────┐
-         ▼               ▼              ▼
+         ┌──────────────┬──────────────┐
+         ▼              ▼              ▼
       GitHub         LinkedIn       LeetCode
 ```
 
@@ -473,7 +475,9 @@ JAYMITHRAN/
 
 ### 2. Why the Tech Constellation is inlined, not `<img>`-referenced
 
-GitHub renders `<img src="*.svg">` as a flat, rasterized-style image — any `<a href>` links baked into that SVG are inert in that context. Since the brief specifically asked for **clickable** technology nodes, the Tech Constellation diagram is pasted directly into `README.md` as raw inline SVG instead of loaded via `<img>`. That's the only section handled this way; every other diagram (hero, StarkAlgoLens architecture, network lab, achievements, education) stays as a normal `<img>` reference since they don't need interactivity.
+GitHub renders `<img src="*.svg">` as a flat, rasterized-style image — any `<a href>` links baked into that SVG are inert in that context. The Tech Constellation diagram is pasted directly into `README.md` as raw inline SVG instead of loaded via `<img>`. That's the only section handled this way; every other diagram (hero, StarkAlgoLens architecture, network lab, achievements, education) stays as a normal `<img>` reference since they don't need interactivity.
+
+> **Note:** GitHub's markdown sanitizer may strip `<a>` elements from inline SVGs, making the tech-node links non-clickable on GitHub. The inline SVG is retained for visual consistency and because it renders the diagram natively without rasterization artifacts. If clickable links are essential, consider adding a markdown link list below the diagram as a fallback.
 
 **Keep `assets/tech-network.svg` and the inline copy in `README.md` in sync** if you edit the node links or layout later — they are two copies of the same diagram by necessity of this workaround.
 
@@ -483,7 +487,7 @@ Uses [`Platane/snk`](https://github.com/Platane/snk) to render your real contrib
 
 - No extra secrets needed beyond the default `GITHUB_TOKEN`.
 - After the first run, an `output` branch will exist containing `dist/snake-dark.svg` and `dist/snake.svg`.
-- The README references `raw.githubusercontent.com/JAYMITHRAN/JAYMITHRAN/output/dist/snake-dark.svg` — replace `JAYMITHRAN` with your actual username/repo if different.
+- The README references `raw.githubusercontent.com/JAYMITHRAN/JAYMITHRAN/output/snake-dark.svg` — replace `JAYMITHRAN` with your actual username/repo if different.
 - In **Settings → Actions → General**, ensure "Workflow permissions" is set to **Read and write permissions** so the action can push to the `output` branch.
 - **First run:** trigger the workflow manually (`Actions` tab → `Generate Contribution Snake` → `Run workflow`) right after publishing the repo — the image has nothing to display until that first run creates the `output` branch.
 
@@ -511,7 +515,7 @@ Search this repository for `JAYMITHRAN` and replace with your own username in:
 - [x] All project descriptions are resume-supported (no invented features)
 - [x] No fabricated metrics, star counts, proficiency percentages, or line-of-code figures
 - [x] All social links point to the stated usernames/handles
-- [x] All 21 tech-node links point to official docs/sites (no random third-party sources)
+- [x] All 22 tech-node links point to official docs/sites (no random third-party sources)
 - [x] No emoji used inside any SVG file (vector icons only)
 - [x] Images include descriptive `alt` text for accessibility
 - [x] Unused `stats.yml` workflow and its unreferenced output asset removed
