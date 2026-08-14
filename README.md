@@ -385,12 +385,11 @@ A private, on-premises network built and administered end-to-end — not just we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JAYMITHRAN&show_icons=true&hide_title=false&hide_border=true&bg_color=0b1220&title_color=67e8f9&icon_color=22d3ee&text_color=c9d6e3&ring_color=22d3ee" alt="Jaymithran's GitHub contribution statistics — commits, repositories, stars, and followers" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYMITHRAN&layout=compact&hide_border=true&bg_color=0b1220&title_color=67e8f9&text_color=c9d6e3&langs_count=6" alt="Jaymithran's most used programming languages by repository share" height="165"/>
+<img src="https://streak-stats.demolab.com?user=JAYMITHRAN&theme=dark&background=0b1220&border=22d3ee&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakNum=e6f6ff&sideNums=e6f6ff&currStreakLabel=67e8f9&sideLabels=9fb3c8&dates=9fb3c8&hide_border=true" alt="Jaymithran's GitHub contribution streak statistics" height="175"/>
 
 </div>
 
-<sub>Stats render live from the GitHub API via `github-readme-stats` — no fabricated numbers. If a metric fails to load, it simply doesn't render.</sub>
+<sub>Live streak and contribution stats rendered via GitHub Readme Streak Stats — no fabricated metrics.</sub>
 
 <br/>
 
@@ -493,12 +492,12 @@ Uses [`Platane/snk`](https://github.com/Platane/snk) to render your real contrib
 
 ### 4. GitHub Overview stats
 
-Uses the live, widely-used [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) Vercel endpoint — works immediately with zero setup, just replace `JAYMITHRAN` in the image URLs if you fork this for another account. No self-hosted stats workflow is included, to keep the Action count minimal — this endpoint is reliable enough on its own.
+Uses the live [`github-readme-streak-stats`](https://github.com/DenverCoder1/github-readme-streak-stats) service — works immediately with high uptime, just replace `JAYMITHRAN` in the image URL if you fork this for another account.
 
 ### 5. Replacing username / configuration
 
 Search this repository for `JAYMITHRAN` and replace with your own username in:
-- `README.md` (social badge links, stats URLs, snake image URL, inline SVG links point to external docs and don't need changing)
+- `README.md` (social badge links, stats URL, snake image URL, inline SVG links point to external docs and don't need changing)
 - `snake.yml` (uses `${{ github.repository_owner }}` automatically — no edit needed if the repo is under your account)
 
 ### 6. External services used
@@ -506,7 +505,7 @@ Search this repository for `JAYMITHRAN` and replace with your own username in:
 | Service | Purpose | Reliability notes |
 |---|---|---|
 | [Platane/snk](https://github.com/Platane/snk) | Contribution snake SVG generation | Runs via your own GitHub Action — no third-party uptime dependency |
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Live stats & top languages cards | Popular, community-maintained Vercel deployment |
+| [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Live contribution streak & activity stats | Dedicated high-availability deployment via demolab.com |
 | [Shields.io](https://shields.io/) | Social link badges only (GitHub/LinkedIn/LeetCode) | Static badge rendering, high uptime |
 
 ### 7. Verification checklist
