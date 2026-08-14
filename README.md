@@ -2,6 +2,12 @@
 
 <img src="./assets/hero.svg" alt="Jaymithran Radhakrishnan — AI/ML Developer, Software Engineer, Network Systems Enthusiast" width="100%" />
 
+<br/><br/>
+
+<a href="#-tech-constellation">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,tailwind,bootstrap,vite,fastapi,express,nodejs,mysql,mongodb,firebase,git,github,docker,linux,postman&theme=dark" alt="Jaymithran's Skills" />
+</a>
+
 </div>
 
 <br/>
