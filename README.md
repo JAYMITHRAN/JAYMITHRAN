@@ -94,150 +94,72 @@ I'm an **AI/ML undergraduate** with strong foundations in **Python, Java, Comput
 
 ## 🕸️ TECH CONSTELLATION
 
-<sub>Every node below is a real link — click any technology to open its official docs. (This diagram is embedded directly rather than as an `<img>`, which is what makes the links clickable on GitHub — see <a href="#-setup--configuration">Setup</a> for why that matters.)</sub>
-
 <div align="center">
+<img src="./assets/tech-network.svg" alt="Technology constellation diagram grouping languages, frontend, backend, database, tools and networking technologies" width="100%" />
+</div>
 
-<svg viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="techTitle techDesc">
-  <title id="techTitle">Technology constellation</title>
-  <desc id="techDesc">Node network diagram grouping languages, frontend, backend, database, tools and networking technologies</desc>
-  <defs>
-    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050810"/>
-      <stop offset="100%" stop-color="#0a0f1e"/>
-    </linearGradient>
-    <filter id="g1" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="3.2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <pattern id="grid2" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#101d33" stroke-width="1"/>
-    </pattern>
-  </defs>
+<br/>
 
-  <rect width="1200" height="620" fill="url(#bg2)"/>
-  <rect width="1200" height="620" fill="url(#grid2)"/>
-  <rect x="12" y="12" width="1176" height="596" rx="16" fill="#0b1220" fill-opacity="0.3" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1.2"/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-  <text x="600" y="52" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="24" fill="#e6f6ff" letter-spacing="1.5" filter="url(#g1)">TECH CONSTELLATION</text>
+**💻 Languages**<br/>
+[![Python](https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0b1220)](https://www.python.org/)<br/>
+[![Java](https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0b1220)](https://www.oracle.com/java/)<br/>
+[![C](https://img.shields.io/badge/C-0b1220?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0b1220)](https://en.cppreference.com/w/c)<br/>
+[![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0b1220)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  <!-- Core node -->
-  <g filter="url(#g1)">
-    <circle cx="600" cy="140" r="30" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
-  </g>
-  <text x="600" y="145" text-anchor="middle" font-family="monospace" font-size="12" fill="#67e8f9">CORE</text>
+</td>
+<td width="33%" valign="top">
 
-  <!-- Category anchor nodes -->
-  <g id="anchors">
-    <!-- Languages -->
-    <circle cx="200" cy="240" r="8" fill="#22d3ee" filter="url(#g1)"/>
-    <!-- Frontend -->
-    <circle cx="440" cy="240" r="8" fill="#818cf8" filter="url(#g1)"/>
-    <!-- Backend -->
-    <circle cx="760" cy="240" r="8" fill="#38bdf8" filter="url(#g1)"/>
-    <!-- Database -->
-    <circle cx="1000" cy="240" r="8" fill="#a78bfa" filter="url(#g1)"/>
-  </g>
+**🎨 Frontend**<br/>
+[![React](https://img.shields.io/badge/ReactJS-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b1220)](https://react.dev/)<br/>
+[![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0b1220)](https://developer.mozilla.org/en-US/docs/Web/HTML)<br/>
+[![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0b1220)](https://developer.mozilla.org/en-US/docs/Web/CSS)<br/>
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=0b1220)](https://tailwindcss.com/)<br/>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-0b1220?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=0b1220)](https://getbootstrap.com/)
 
-  <g stroke="#22d3ee" stroke-width="1" opacity="0.45">
-    <line x1="600" y1="170" x2="200" y2="240"/>
-    <line x1="600" y1="170" x2="440" y2="240"/>
-    <line x1="600" y1="170" x2="760" y2="240"/>
-    <line x1="600" y1="170" x2="1000" y2="240"/>
-  </g>
+</td>
+<td width="33%" valign="top">
 
-  <!-- LANGUAGES branch -->
-  <text x="200" y="275" text-anchor="middle" font-family="monospace" font-size="12" fill="#67e8f9" letter-spacing="1">LANGUAGES</text>
-  <g stroke="#22d3ee" stroke-width="1" opacity="0.4">
-    <line x1="200" y1="248" x2="90" y2="330"/>
-    <line x1="200" y1="248" x2="190" y2="340"/>
-    <line x1="200" y1="248" x2="290" y2="330"/>
-    <line x1="200" y1="248" x2="150" y2="380"/>
-  </g>
-  <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#dbeafe">
-    <a href="https://www.python.org/"><circle cx="90" cy="330" r="4" fill="#22d3ee"/><text x="100" y="334">Python</text></a>
-    <a href="https://www.oracle.com/java/"><circle cx="190" cy="340" r="4" fill="#22d3ee"/><text x="200" y="344">Java</text></a>
-    <a href="https://en.cppreference.com/w/c"><circle cx="290" cy="330" r="4" fill="#22d3ee"/><text x="300" y="334">C</text></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><circle cx="150" cy="380" r="4" fill="#22d3ee"/><text x="160" y="384">JavaScript</text></a>
-  </g>
+**⚙️ Backend & APIs**<br/>
+[![FastAPI](https://img.shields.io/badge/FastAPI-0b1220?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0b1220)](https://fastapi.tiangolo.com/)<br/>
+[![Express.js](https://img.shields.io/badge/Express.js-0b1220?style=for-the-badge&logo=express&logoColor=white&labelColor=0b1220)](https://expressjs.com/)<br/>
+[![REST APIs](https://img.shields.io/badge/REST_APIs-0b1220?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0b1220)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-  <!-- FRONTEND branch -->
-  <text x="440" y="275" text-anchor="middle" font-family="monospace" font-size="12" fill="#a5b4fc" letter-spacing="1">FRONTEND</text>
-  <g stroke="#818cf8" stroke-width="1" opacity="0.4">
-    <line x1="440" y1="248" x2="360" y2="330"/>
-    <line x1="440" y1="248" x2="440" y2="345"/>
-    <line x1="440" y1="248" x2="510" y2="330"/>
-    <line x1="440" y1="248" x2="480" y2="380"/>
-  </g>
-  <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#dbeafe">
-    <a href="https://react.dev/"><circle cx="360" cy="330" r="4" fill="#818cf8"/><text x="370" y="334">ReactJS</text></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><circle cx="440" cy="345" r="4" fill="#818cf8"/><text x="450" y="349">HTML5</text></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><circle cx="510" cy="330" r="4" fill="#818cf8"/><text x="520" y="334">CSS3</text></a>
-    <a href="https://getbootstrap.com/"><circle cx="480" cy="380" r="4" fill="#818cf8"/><text x="490" y="384">Bootstrap</text></a>
-  </g>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-  <!-- BACKEND branch -->
-  <text x="760" y="275" text-anchor="middle" font-family="monospace" font-size="12" fill="#7dd3fc" letter-spacing="1">BACKEND</text>
-  <g stroke="#38bdf8" stroke-width="1" opacity="0.4">
-    <line x1="760" y1="248" x2="690" y2="330"/>
-    <line x1="760" y1="248" x2="790" y2="345"/>
-    <line x1="760" y1="248" x2="850" y2="325"/>
-  </g>
-  <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#dbeafe">
-    <a href="https://fastapi.tiangolo.com/"><circle cx="690" cy="330" r="4" fill="#38bdf8"/><text x="700" y="334">FastAPI</text></a>
-    <a href="https://expressjs.com/"><circle cx="790" cy="345" r="4" fill="#38bdf8"/><text x="800" y="349">Express.js</text></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><circle cx="850" cy="325" r="4" fill="#38bdf8"/><text x="860" y="329">REST APIs</text></a>
-  </g>
+**🗄️ Databases**<br/>
+[![MySQL](https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0b1220)](https://www.mysql.com/)<br/>
+[![MongoDB](https://img.shields.io/badge/MongoDB-0b1220?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0b1220)](https://www.mongodb.com/)<br/>
+[![Firebase](https://img.shields.io/badge/Firebase-0b1220?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0b1220)](https://firebase.google.com/)
 
-  <!-- DATABASE branch -->
-  <text x="1000" y="275" text-anchor="middle" font-family="monospace" font-size="12" fill="#c4b5fd" letter-spacing="1">DATABASE</text>
-  <g stroke="#a78bfa" stroke-width="1" opacity="0.4">
-    <line x1="1000" y1="248" x2="950" y2="335"/>
-    <line x1="1000" y1="248" x2="1050" y2="335"/>
-  </g>
-  <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#dbeafe">
-    <a href="https://www.mongodb.com/"><circle cx="950" cy="335" r="4" fill="#a78bfa"/><text x="960" y="339">MongoDB</text></a>
-    <a href="https://www.mysql.com/"><circle cx="1050" cy="335" r="4" fill="#a78bfa"/><text x="1060" y="339">MySQL</text></a>
-  </g>
+</td>
+<td width="33%" valign="top">
 
-  <!-- Second row: TOOLS / NETWORKING -->
-  <circle cx="380" cy="470" r="8" fill="#f472b6" filter="url(#g1)"/>
-  <circle cx="820" cy="470" r="8" fill="#34d399" filter="url(#g1)"/>
-  <g stroke="#334155" stroke-width="1" opacity="0.5">
-    <line x1="600" y1="170" x2="380" y2="470"/>
-    <line x1="600" y1="170" x2="820" y2="470"/>
-  </g>
+**🧰 Tools & Platforms**<br/>
+[![Git](https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0b1220)](https://git-scm.com/)<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220)](https://github.com/)<br/>
+[![Docker](https://img.shields.io/badge/Docker-0b1220?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0b1220)](https://www.docker.com/)<br/>
+[![Linux](https://img.shields.io/badge/Linux-0b1220?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0b1220)](https://www.linux.org/)<br/>
+[![Playwright](https://img.shields.io/badge/Playwright-0b1220?style=for-the-badge&logo=playwright&logoColor=2EAD33&labelColor=0b1220)](https://playwright.dev/)
 
-  <text x="380" y="505" text-anchor="middle" font-family="monospace" font-size="12" fill="#f9a8d4" letter-spacing="1">TOOLS / INFRASTRUCTURE</text>
-  <g stroke="#f472b6" stroke-width="1" opacity="0.4">
-    <line x1="380" y1="478" x2="230" y2="545"/>
-    <line x1="380" y1="478" x2="330" y2="560"/>
-    <line x1="380" y1="478" x2="430" y2="560"/>
-    <line x1="380" y1="478" x2="530" y2="545"/>
-    <line x1="380" y1="478" x2="380" y2="580"/>
-  </g>
-  <g font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#fbe4f0">
-    <a href="https://git-scm.com/"><circle cx="230" cy="545" r="4" fill="#f472b6"/><text x="238" y="549">Git / GitHub</text></a>
-    <a href="https://www.docker.com/"><circle cx="330" cy="560" r="4" fill="#f472b6"/><text x="338" y="564">Docker</text></a>
-    <a href="https://www.linux.org/"><circle cx="430" cy="560" r="4" fill="#f472b6"/><text x="438" y="564">Linux</text></a>
-    <a href="https://playwright.dev/"><circle cx="530" cy="545" r="4" fill="#f472b6"/><text x="538" y="549">Playwright</text></a>
-    <a href="https://firebase.google.com/"><circle cx="380" cy="580" r="4" fill="#f472b6"/><text x="388" y="584">Firebase</text></a>
-  </g>
+</td>
+<td width="33%" valign="top">
 
-  <text x="820" y="505" text-anchor="middle" font-family="monospace" font-size="12" fill="#6ee7b7" letter-spacing="1">NETWORKING</text>
-  <g stroke="#34d399" stroke-width="1" opacity="0.4">
-    <line x1="820" y1="478" x2="740" y2="555"/>
-    <line x1="820" y1="478" x2="820" y2="580"/>
-    <line x1="820" y1="478" x2="900" y2="555"/>
-    <line x1="820" y1="478" x2="960" y2="580"/>
-  </g>
-  <g font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#d1fae5">
-    <a href="https://www.cisco.com/"><circle cx="740" cy="555" r="4" fill="#34d399"/><text x="748" y="559">Cisco</text></a>
-    <a href="https://www.juniper.net/"><circle cx="820" cy="580" r="4" fill="#34d399"/><text x="828" y="584">Juniper</text></a>
-    <a href="https://www.pfsense.org/"><circle cx="900" cy="555" r="4" fill="#34d399"/><text x="908" y="559">pfSense</text></a>
-    <a href="https://www.proxmox.com/"><circle cx="960" cy="580" r="4" fill="#34d399"/><text x="968" y="584">Proxmox</text></a>
-  </g>
-</svg>
+**🌐 Networking & Infra**<br/>
+[![Cisco](https://img.shields.io/badge/Cisco-0b1220?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0b1220)](https://www.cisco.com/)<br/>
+[![Juniper](https://img.shields.io/badge/Juniper-0b1220?style=for-the-badge&logo=junipernetworks&logoColor=22d3ee&labelColor=0b1220)](https://www.juniper.net/)<br/>
+[![pfSense](https://img.shields.io/badge/pfSense-0b1220?style=for-the-badge&logo=pfsense&logoColor=white&labelColor=0b1220)](https://www.pfsense.org/)<br/>
+[![Proxmox](https://img.shields.io/badge/Proxmox_VE-0b1220?style=for-the-badge&logo=proxmox&logoColor=E57000&labelColor=0b1220)](https://www.proxmox.com/)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -385,11 +307,14 @@ A private, on-premises network built and administered end-to-end — not just we
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JAYMITHRAN&theme=dark&background=0b1220&border=22d3ee&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakNum=e6f6ff&sideNums=e6f6ff&currStreakLabel=67e8f9&sideLabels=9fb3c8&dates=9fb3c8&hide_border=true" alt="Jaymithran's GitHub contribution streak statistics" height="175"/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-JAYMITHRAN-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=0b1220)](https://github.com/JAYMITHRAN)
+[![Followers](https://img.shields.io/github/followers/JAYMITHRAN?label=Followers&style=for-the-badge&logo=github&color=22d3ee&labelColor=0b1220)](https://github.com/JAYMITHRAN?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=JAYMITHRAN&label=Profile%20Views&color=22d3ee&style=for-the-badge&base=100)](https://github.com/JAYMITHRAN)
+[![Status](https://img.shields.io/badge/Status-Actively_Building-0b1220?style=for-the-badge&logo=git&logoColor=34d399&labelColor=0b1220)](https://github.com/JAYMITHRAN)
 
 </div>
 
-<sub>Live streak and contribution stats rendered via GitHub Readme Streak Stats — no fabricated metrics.</sub>
+<sub>Live GitHub statistics and activity metrics rendered via high-availability badge services.</sub>
 
 <br/>
 
