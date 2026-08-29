@@ -39,9 +39,9 @@
     <!-- Outer Ring -->
     <circle cx="0" cy="0" r="68" fill="#070b14" stroke="#22d3ee" stroke-width="3" filter="url(#tcGlow)"/>
     <!-- Pokéball Top Half (Crimson) -->
-    <path d="M-60,0 A60,60 0 0,1 60,0 Z" fill="#ef4444" fill-opacity="0.9"/>
-    <!-- Pokéball Bottom Half (Dark Slate) -->
-    <path d="M-60,0 A60,60 0 0,0 60,0 Z" fill="#1e293b"/>
+    <path d="M-60,0 A60,60 0 0,1 60,0 Z" fill="#ef4444" fill-opacity="0.95"/>
+    <!-- Pokéball Bottom Half (Pure Clean White) -->
+    <path d="M-60,0 A60,60 0 0,0 60,0 Z" fill="#ffffff" fill-opacity="0.95"/>
     <!-- Center Dividing Band -->
     <rect x="-60" y="-6" width="120" height="12" fill="#070b14"/>
     <!-- Center Button Outer -->
@@ -56,11 +56,11 @@
   <line x1="225" y1="36" x2="225" y2="316" stroke="#1e293b" stroke-width="1.5"/>
 
   <!-- Center Content Block -->
-  <g transform="translate(255, 52)">
+  <g transform="translate(255, 50)">
     <!-- Top Pill: Status -->
     <rect x="0" y="0" width="170" height="26" rx="13" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.2"/>
     <circle cx="14" cy="13" r="4.5" fill="#10b981"/>
-    <text x="28" y="17.5" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#34d399" letter-spacing="1">STATUS: ACTIVE</text>
+    <text x="28" y="17.5" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#34d399" letter-spacing="1">STATUS: ACTIVE ⚡</text>
 
     <!-- Name -->
     <text x="0" y="66" font-family="'Segoe UI',Arial,sans-serif" font-weight="800" font-size="33" fill="#f8fafc" letter-spacing="1">
@@ -68,63 +68,65 @@
     </text>
 
     <!-- Degree in Full Form -->
-    <text x="0" y="98" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="18.5" fill="#22d3ee">
-      B.Tech in Artificial Intelligence and Machine Learning
+    <text x="0" y="98" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="19" fill="#22d3ee">
+      B.Tech in Artificial Intelligence and Machine Learning 🎓
     </text>
 
     <!-- Sub-role -->
-    <text x="0" y="124" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#94a3b8">
+    <text x="0" y="125" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" fill="#94a3b8">
       AI/ML Systems Developer • Enterprise Network Administrator • Automation Engineer
     </text>
 
-    <!-- Technical Domain Pills (Real names, No arbitrary ratings) -->
+    <!-- Technical Domain Pills (Real names) -->
     <g transform="translate(0, 148)">
       <!-- Coding -->
       <rect x="0" y="0" width="120" height="32" rx="8" fill="#facc15" fill-opacity="0.15" stroke="#facc15" stroke-width="1.4"/>
       <text x="60" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#fde047">💻 CODING</text>
 
       <!-- Networking -->
-      <rect x="132" y="0" width="155" height="32" rx="8" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1.4"/>
-      <text x="209" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#67e8f9">🌐 NETWORKING</text>
+      <rect x="130" y="0" width="155" height="32" rx="8" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1.4"/>
+      <text x="207.5" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#67e8f9">🌐 NETWORKING</text>
 
       <!-- Artificial Intelligence -->
-      <rect x="299" y="0" width="145" height="32" rx="8" fill="#c084fc" fill-opacity="0.15" stroke="#c084fc" stroke-width="1.4"/>
-      <text x="371" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#e9d5ff">🤖 AI / ML</text>
+      <rect x="295" y="0" width="145" height="32" rx="8" fill="#c084fc" fill-opacity="0.15" stroke="#c084fc" stroke-width="1.4"/>
+      <text x="367.5" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#e9d5ff">🤖 AI / ML</text>
 
       <!-- SQL / Databases -->
-      <rect x="456" y="0" width="125" height="32" rx="8" fill="#fb923c" fill-opacity="0.15" stroke="#fb923c" stroke-width="1.4"/>
-      <text x="518" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#fdba74">🗄️ SQL &amp; DB</text>
+      <rect x="450" y="0" width="130" height="32" rx="8" fill="#fb923c" fill-opacity="0.15" stroke="#fb923c" stroke-width="1.4"/>
+      <text x="515" y="21" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#fdba74">🗄️ SQL &amp; DB</text>
     </g>
 
-    <!-- Iconic Quote -->
-    <text x="0" y="222" font-family="'Segoe UI',Arial,sans-serif" font-size="15.5" font-weight="600" fill="#facc15" font-style="italic">
-      "With great power comes great responsibility"
-    </text>
+    <!-- Iconic Quote (Enlarged & Prominent) -->
+    <g transform="translate(0, 224)">
+      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" fill="#facc15" font-style="italic" letter-spacing="0.5">
+        "The hardest choices require the strongest wills" ✨
+      </text>
+    </g>
   </g>
 
   <!-- Right: Personal Info Dossier Box -->
   <g transform="translate(875, 48)">
     <rect x="0" y="0" width="285" height="252" rx="12" fill="#070b14" fill-opacity="0.85" stroke="#1e293b" stroke-width="1.4"/>
     
-    <text x="142" y="32" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13.5" font-weight="800" fill="#22d3ee" letter-spacing="1.5">PROFILE DOSSIER</text>
+    <text x="142" y="32" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="800" fill="#22d3ee" letter-spacing="1.5">PROFILE DOSSIER ✨</text>
     <line x1="20" y1="44" x2="265" y2="44" stroke="#1e293b" stroke-width="1.2"/>
 
     <!-- Row 1: Location -->
-    <g transform="translate(18, 75)">
-      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">LOCATION</text>
-      <text x="0" y="19" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="15" fill="#f8fafc">Tamil Nadu, India</text>
+    <g transform="translate(20, 75)">
+      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">📍 LOCATION</text>
+      <text x="0" y="20" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="16" fill="#f8fafc">Tamil Nadu, India 🇮🇳</text>
     </g>
 
     <!-- Row 2: Born -->
-    <g transform="translate(18, 130)">
-      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">BORN ON</text>
-      <text x="0" y="19" font-family="'JetBrains Mono',monospace" font-weight="700" font-size="15.5" fill="#facc15">18-08-2005</text>
+    <g transform="translate(20, 132)">
+      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">🎂 BORN ON</text>
+      <text x="0" y="20" font-family="'JetBrains Mono',monospace" font-weight="800" font-size="17" fill="#facc15">18-08-2005 🎈</text>
     </g>
 
-    <!-- Row 3: Academics & CGPA -->
-    <g transform="translate(18, 185)">
-      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">ACADEMIC CGPA</text>
-      <text x="0" y="19" font-family="'JetBrains Mono',monospace" font-weight="700" font-size="16" fill="#34d399">8.99 / 10.0 (BIT)</text>
+    <!-- Row 3: Engineering Focus with cute emojis -->
+    <g transform="translate(20, 190)">
+      <text x="0" y="0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">🚀 CORE PASSION</text>
+      <text x="0" y="20" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="15" fill="#34d399">AI • Code • Networks ⚡</text>
     </g>
   </g>
 </svg>
