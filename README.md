@@ -39,15 +39,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║  P O K É D E X    T R A I N E R    C A R D                                     ║
+║  P O K É D E X    T R A I N E R    C A R D                                       ║
 ║                                                                                  ║
 ║  Trainer    ▸  JAYMITHRAN RADHAKRISHNAN                                          ║
-║  ID No.     ▸  #0899                                                             ║
+║  ID No.     ▸  #0899                                                           ║
 ║  Class      ▸  AI/ML Developer & Network Infrastructure Specialist               ║
 ║  Region     ▸  South India (Tamil Nadu)                                          ║
 ║  Academy    ▸  Bannari Amman Institute of Technology                             ║
 ║  Degree     ▸  B.Tech in Artificial Intelligence and Machine Learning            ║
-║  Typing     ▸  Electric ⚡ / Steel 🛡️ / Psychic 🧠                               ║
+║  Typing     ▸  Electric ⚡ / Steel 🛡️ / Psychic 🧠                              ║
 ║  Nature     ▸  Analytical • Hands-on • Automation-Driven                         ║
 ║  Ability    ▸  Rapid Automation & Real-World Problem Solving                     ║
 ║  Status     ▸  ACTIVE — Continuously leveling up through hands-on projects       ║
@@ -74,23 +74,25 @@ I'm an undergraduate in **Artificial Intelligence and Machine Learning** with st
 <td width="50%" valign="top">
 
 **⚡ Electric Type — Core Logic & Languages**
-```
-⚡ Python       ████████████████████ ★★★★★
-⚡ Java         ████████████████████ ★★★★★
-⚡ C            ██████████████████░░ ★★★★☆
-⚡ JavaScript   ██████████████████░░ ★★★★☆
-```
+
+| Move | Power |
+|---|---|
+| ⚡ Python | `████████████████████` ★★★★★ |
+| ⚡ Java | `████████████████████` ★★★★★ |
+| ⚡ C | `██████████████████░░` ★★★★☆ |
+| ⚡ JavaScript | `██████████████████░░` ★★★★☆ |
 
 </td>
 <td width="50%" valign="top">
 
 **🧠 Psychic Type — Machine Intelligence**
-```
-🧠 Neural Architectures      ████████████████░░░░
-🧠 Automated AST Parsers     ██████████████████░░
-🧠 Predictive AI Pipelines   ████████████████░░░░
-🧠 Static Code Analysis      ██████████████████░░
-```
+
+| Move | Power |
+|---|---|
+| 🧠 Neural Architectures | `████████████████░░░░` |
+| 🧠 Automated AST Parsers | `██████████████████░░` |
+| 🧠 Predictive AI Pipelines | `████████████████░░░░` |
+| 🧠 Static Code Analysis | `██████████████████░░` |
 
 </td>
 </tr>
@@ -98,33 +100,36 @@ I'm an undergraduate in **Artificial Intelligence and Machine Learning** with st
 <td width="50%" valign="top">
 
 **🛡️ Steel Type — Infrastructure & Defense**
-```
-🛡️ Cisco Routing & Switching  ████████████████████
-🛡️ Juniper Networks           ██████████████████░░
-🛡️ pfSense Firewall           ████████████████████
-🛡️ Proxmox VE                 ██████████████████░░
-🛡️ Docker Containers          ██████████████████░░
-🛡️ Linux Administration       ████████████████████
-```
+
+| Move | Power |
+|---|---|
+| 🛡️ Cisco Routing & Switching | `████████████████████` |
+| 🛡️ Juniper Networks | `██████████████████░░` |
+| 🛡️ pfSense Firewall | `████████████████████` |
+| 🛡️ Proxmox VE | `██████████████████░░` |
+| 🛡️ Docker Containers | `██████████████████░░` |
+| 🛡️ Linux Administration | `████████████████████` |
 
 </td>
 <td width="50%" valign="top">
 
 **💧 Water Type — Fluid UI & Frameworks**
-```
-💧 React / React Native  ██████████████████░░
-💧 Tailwind CSS           ████████████████████
-💧 FastAPI                ████████████████████
-💧 Express.js             ██████████████████░░
-💧 HTML5 / CSS3           ████████████████████
-```
+
+| Move | Power |
+|---|---|
+| 💧 React / React Native | `██████████████████░░` |
+| 💧 Tailwind CSS | `████████████████████` |
+| 💧 FastAPI | `████████████████████` |
+| 💧 Express.js | `██████████████████░░` |
+| 💧 HTML5 / CSS3 | `████████████████████` |
 
 **🪨 Ground Type — Persistence & Storage**
-```
-🪨 MySQL       ████████████████████
-🪨 MongoDB     ██████████████████░░
-🪨 Firebase    ██████████████████░░
-```
+
+| Move | Power |
+|---|---|
+| 🪨 MySQL | `████████████████████` |
+| 🪨 MongoDB | `██████████████████░░` |
+| 🪨 Firebase | `██████████████████░░` |
 
 </td>
 </tr>
@@ -140,66 +145,38 @@ I'm an undergraduate in **Artificial Intelligence and Machine Learning** with st
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-```
-    ╔═══════════════════════════════════╗
-    ║  🥇  TAMIL NADU STATE CHAMPION   ║
-    ║      BADGE                        ║
-    ║                                   ║
-    ║  1st Prize — Gold Medal           ║
-    ║  IT Network System Administration ║
-    ║  Awarded by TN Youth Welfare &    ║
-    ║  Sports Development Ministry      ║
-    ╚═══════════════════════════════════╝
-```
+### 🥇 Tamil Nadu State Champion Badge
+**1st Prize — Gold Medal**<br/>
+IT Network System Administration<br/>
+<sub>Awarded by TN Youth Welfare & Sports Development Ministry</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-```
-    ╔═══════════════════════════════════╗
-    ║  🥉  SOUTH REGION ELITE BADGE    ║
-    ║                                   ║
-    ║  India Skills Competition         ║
-    ║  Bronze Medalist                  ║
-    ║  IT Network System Administration ║
-    ║  Enterprise Firewall Hardening,   ║
-    ║  Routing & Systems Administration ║
-    ╚═══════════════════════════════════╝
-```
+### 🥉 South Region Elite Badge
+**India Skills Competition — Bronze Medalist**<br/>
+IT Network System Administration<br/>
+<sub>Enterprise Firewall Hardening, Routing & Systems Administration</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-```
-    ╔═══════════════════════════════════╗
-    ║  🎓  ACADEMY CREDENTIALS BADGE   ║
-    ║                                   ║
-    ║  Bannari Amman Institute of       ║
-    ║  Technology                       ║
-    ║  B.Tech — Artificial Intelligence ║
-    ║  and Machine Learning             ║
-    ║  CGPA: 8.99 / 10.0               ║
-    ╚═══════════════════════════════════╝
-```
+### 🎓 Academy Credentials Badge
+**Bannari Amman Institute of Technology**<br/>
+B.Tech — Artificial Intelligence and Machine Learning<br/>
+<sub>CGPA: 8.99 / 10.0</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-```
-    ╔═══════════════════════════════════╗
-    ║  👨‍🏫  BATTLE ACADEMY TRAINER      ║
-    ║      LICENSE                      ║
-    ║                                   ║
-    ║  Student Technical Trainer        ║
-    ║  Mentored 60+ Junior Engineers    ║
-    ║  120+ Hours of Hands-on Cisco     ║
-    ║  Networking Lab Instruction       ║
-    ╚═══════════════════════════════════╝
-```
+### 👨‍🏫 Battle Academy Trainer License
+**Student Technical Trainer**<br/>
+Mentored 60+ Junior Engineers<br/>
+<sub>120+ Hours of Hands-on Cisco Networking Lab Instruction</sub>
 
 </td>
 </tr>
@@ -213,31 +190,16 @@ I'm an undergraduate in **Artificial Intelligence and Machine Learning** with st
 
 ## 📊 POKÉDEX BASE STATS — BATTLE CAPABILITIES
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  TRAINER: JAYMITHRAN RADHAKRISHNAN                  POKÉDEX ID: #0899      ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                            ║
-║  HP       ██████████████████████████████████████████████████  Repository    ║
-║           [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%    Uptime        ║
-║                                                                            ║
-║  ATTACK   ████████████████████████████████████████████░░░░░░  DSA &        ║
-║     ⚔️     [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□]  85%     LeetCode     ║
-║                                                                            ║
-║  DEFENSE  ██████████████████████████████████████████████████  Enterprise   ║
-║     🛡️     [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  100%   Network Sec  ║
-║                                                                            ║
-║  SP. ATK  ████████████████████████████████████████████░░░░░░  AI & ML      ║
-║     🔮     [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□]  90%     Pipelines    ║
-║                                                                            ║
-║  SP. DEF  ████████████████████████████████████████████░░░░░░  Virtualized  ║
-║     🔒     [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■□□□□]  88%     Sandboxes    ║
-║                                                                            ║
-║  SPEED    ██████████████████████████████████████████████████  Sub-5s Cloud ║
-║     ⚡     [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■]  95%     Builds       ║
-║                                                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<sub>TRAINER: JAYMITHRAN RADHAKRISHNAN &nbsp;&nbsp;|&nbsp;&nbsp; POKÉDEX ID: #0899</sub>
+
+| Stat | Bar | Value | Domain |
+|---|---|---|---|
+| **HP** | `■■■■■■■■■■■■■■■■■■■■` | **100%** | Repository Uptime |
+| **Attack** ⚔️ | `■■■■■■■■■■■■■■■■■□□□` | **85%** | DSA & LeetCode |
+| **Defense** 🛡️ | `■■■■■■■■■■■■■■■■■■■■` | **100%** | Enterprise Network Security |
+| **Sp. Atk** 🔮 | `■■■■■■■■■■■■■■■■■■□□` | **90%** | AI & ML Pipelines |
+| **Sp. Def** 🔒 | `■■■■■■■■■■■■■■■■■■□□` | **88%** | Virtualized Sandboxes |
+| **Speed** ⚡ | `■■■■■■■■■■■■■■■■■■■□` | **95%** | Sub-5s Cloud Builds |
 
 <br/>
 
@@ -247,19 +209,23 @@ I'm an undergraduate in **Artificial Intelligence and Machine Learning** with st
 
 ## 🗺️ TRAINER JOURNEY ROUTE
 
-```
-  START                                                                    NOW
-    ▼                                                                       ▼
-  ┌──────────┐    ┌───────────────┐    ┌──────────────┐    ┌────────────┐    ┌───────────────────┐
-  │ 📚       │    │ 🎓            │    │ 🥇           │    │ 🥉         │    │ 👨‍🏫                │
-  │ School   │───▶│ B.Tech AI &   │───▶│ TN State     │───▶│ IndiaSkills│───▶│ Student Technical │
-  │ Maths &  │    │ ML at BIT     │    │ Skills Gold  │    │ South Reg. │    │ Trainer — 60+     │
-  │ CS       │    │ CGPA: 8.99    │    │ Medal        │    │ Bronze     │    │ Engineers Mentored│
-  └──────────┘    └───────────────┘    └──────────────┘    └────────────┘    └───────────────────┘
-
-  ─────────────────────────────────────────────────────────────────────────────────▶
-                          E X P E R I E N C E   P O I N T S
-```
+> 📚 **Foundational Schooling** — Sri Gopal Naidu HSS, Coimbatore · Mathematics & Computer Science
+>
+> ⬇️
+>
+> 🎓 **B.Tech in Artificial Intelligence & Machine Learning** — Bannari Amman Institute of Technology · CGPA: 8.99 / 10.0
+>
+> ⬇️
+>
+> 🥇 **TN State Skills Competition — Gold Medalist** — 1st Prize in IT Network System Administration
+>
+> ⬇️
+>
+> 🥉 **India Skills (South Region) — Bronze Medalist** — IT Network System Administration under live competitive pressure
+>
+> ⬇️
+>
+> 👨‍🏫 **Student Technical Trainer** — Mentored 60+ Junior Engineers across 120+ hours of hands-on Cisco networking labs
 
 <br/>
 
@@ -298,19 +264,11 @@ I'm an undergraduate in **Artificial Intelligence and Machine Learning** with st
 
 ## 🎮 CHALLENGE THE TRAINER — POKÉGEAR COMMS
 
-```
-                     ╔══════════════════════════════════════════╗
-                     ║  🎮 WANT TO TEAM UP OR BATTLE?          ║
-                     ║                                          ║
-                     ║  Open for:                               ║
-                     ║   • AI/ML Research & Collaboration       ║
-                     ║   • Software Engineering Roles           ║
-                     ║   • Network Infrastructure Projects      ║
-                     ║   • Technical Discussions & Mentorship    ║
-                     ║                                          ║
-                     ║  Let's build something legendary.        ║
-                     ╚══════════════════════════════════════════╝
-```
+> **🎮 Want to team up or battle?**
+>
+> Open for **AI/ML Research & Collaboration**, **Software Engineering Roles**, **Network Infrastructure Projects**, and **Technical Discussions & Mentorship**.
+>
+> *Let's build something legendary.*
 
 <div align="center">
 
