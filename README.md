@@ -52,30 +52,6 @@
 <br/>
 
 <!-- ============================================================ -->
-<!-- VERIFIED METRICS & PERFORMANCE HIGHLIGHTS                      -->
-<!-- ============================================================ -->
-
-## 📊 VERIFIED METRICS & PERFORMANCE HIGHLIGHTS
-
-<div align="center">
-<img src="./assets/base-stats.svg" alt="Verified Metrics: 8.99 CGPA, 1st Prize Gold Medal, IndiaSkills Bronze Medal, 120+ Lab Hours, 60+ Engineers Mentored, and Production Stacks" width="100%" />
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- TRAINER JOURNEY ROUTE                                          -->
-<!-- ============================================================ -->
-
-## 🗺️ TRAINER JOURNEY ROUTE
-
-<div align="center">
-<img src="./assets/journey-route.svg" alt="Trainer Journey Route Map from Schooling to B.Tech AI & ML, TN State Gold, IndiaSkills Bronze, and Technical Trainer mentorship" width="100%" />
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
 <!-- GITHUB ACTIVITY — CONTRIBUTION SNAKE                           -->
 <!-- ============================================================ -->
 
@@ -105,14 +81,22 @@
 </div>
 
 <!-- ============================================================ -->
-<!-- FOOTER SIGN-OFF                                                -->
+<!-- FOOTER SIGN-OFF & CONTACT TRAINER                              -->
 <!-- ============================================================ -->
 
 <div align="center">
+
+<br/>
+
+[![Contact Trainer](https://img.shields.io/badge/🎮_Contact_Trainer-Direct_Mail-0b1220?style=for-the-badge&logo=gmail&logoColor=ef4444&labelColor=0b1220)](mailto:r.jaymithran1036@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaymithran--r-0b1220?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0b1220)](https://linkedin.com/in/jaymithran-r/)
+
+<br/><br/>
 
 ---
 
 <sub>⚡ ELECTRIC ⚡ / 🛡️ STEEL / 🧠 PSYCHIC — <b>Gotta Build 'Em All</b></sub>
 
 </div>
+
 
