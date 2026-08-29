@@ -1,13 +1,13 @@
-<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bsTitle bsDesc">
-  <title id="bsTitle">Pokédex Base Combat Stats — Battle Capabilities</title>
-  <desc id="bsDesc">Pokédex style battle combat stats mapping engineering domains to HP, Attack, Defense, Special Attack, Special Defense, and Speed.</desc>
+<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bsTitle bsDesc">
+  <title id="bsTitle">Verified Technical Metrics &amp; Performance Highlights</title>
+  <desc id="bsDesc">Concrete verified metrics: 8.99 CGPA, State Gold Medal, IndiaSkills Bronze Medal, 60+ Junior Engineers Mentored, 120+ Lab Hours, and Production Deployments.</desc>
   <defs>
     <linearGradient id="bsBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050810"/>
       <stop offset="100%" stop-color="#0b1120"/>
     </linearGradient>
     <filter id="bsGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <pattern id="bsGrid" width="30" height="30" patternUnits="userSpaceOnUse">
@@ -15,76 +15,63 @@
     </pattern>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bsBg)"/>
-  <rect width="1200" height="300" fill="url(#bsGrid)"/>
+  <rect width="1200" height="240" fill="url(#bsBg)"/>
+  <rect width="1200" height="240" fill="url(#bsGrid)"/>
 
-  <rect x="16" y="16" width="1168" height="268" rx="14" fill="#0b1220" fill-opacity="0.7" stroke="#22d3ee" stroke-width="1.3" filter="url(#bsGlow)"/>
+  <rect x="16" y="16" width="1168" height="208" rx="14" fill="#0b1220" fill-opacity="0.7" stroke="#22d3ee" stroke-width="1.3" filter="url(#bsGlow)"/>
   
   <!-- Header Bar -->
-  <rect x="16" y="16" width="1168" height="38" rx="14" fill="#070b14"/>
-  <text x="36" y="41" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#22d3ee" letter-spacing="1">POKÉDEX COMBAT STATS // TRAINER ID: #0899</text>
-  <text x="1160" y="41" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" fill="#64748b">TOTAL BASE STATS: 558 // S-TIER</text>
+  <rect x="16" y="16" width="1168" height="36" rx="14" fill="#070b14"/>
+  <text x="36" y="39" font-family="'JetBrains Mono',monospace" font-size="12.5" font-weight="700" fill="#22d3ee" letter-spacing="1">⚡ VERIFIED ENGINEERING HIGHLIGHTS // POKÉDEX NO. #0899</text>
 
-  <!-- Left Column (HP, Attack, Defense) -->
-  <g transform="translate(36, 75)">
-    <!-- HP -->
-    <g transform="translate(0, 0)">
-      <text x="0" y="16" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#34d399">HP</text>
-      <text x="110" y="16" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#94a3b8">Repository Uptime</text>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#1e293b"/>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#34d399" filter="url(#bsGlow)"/>
-      <text x="520" y="16" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#34d399">100%</text>
-    </g>
-
-    <!-- Attack -->
-    <g transform="translate(0, 60)">
-      <text x="0" y="16" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#facc15">ATK ⚔️</text>
-      <text x="110" y="16" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#94a3b8">DSA &amp; LeetCode</text>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#1e293b"/>
-      <rect x="250" y="4" width="187" height="14" rx="7" fill="#facc15" filter="url(#bsGlow)"/>
-      <text x="520" y="16" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#facc15">85%</text>
-    </g>
-
-    <!-- Defense -->
-    <g transform="translate(0, 120)">
-      <text x="0" y="16" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#38bdf8">DEF 🛡️</text>
-      <text x="110" y="16" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#94a3b8">Enterprise Firewalls</text>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#1e293b"/>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#38bdf8" filter="url(#bsGlow)"/>
-      <text x="520" y="16" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#38bdf8">100%</text>
-    </g>
+  <!-- 6 Metrics Grid (2 rows of 3) -->
+  <!-- ROW 1 -->
+  <!-- Metric 1: CGPA -->
+  <g transform="translate(36, 68)">
+    <rect width="360" height="64" rx="10" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">ACADEMIC STANDING</text>
+    <text x="16" y="48" font-family="'JetBrains Mono',monospace" font-size="16" font-weight="700" fill="#facc15">8.99 / 10.0 CGPA</text>
+    <text x="344" y="46" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#94a3b8">B.Tech AI &amp; ML</text>
   </g>
 
-  <!-- Vertical Divider -->
-  <line x1="600" y1="65" x2="600" y2="265" stroke="#1e293b" stroke-width="1.2"/>
+  <!-- Metric 2: State Gold -->
+  <g transform="translate(420, 68)">
+    <rect width="360" height="64" rx="10" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">STATE COMPETITION</text>
+    <text x="16" y="48" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#34d399">🥇 1st Prize Gold</text>
+    <text x="344" y="46" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#94a3b8">TN Skills (NetAdmin)</text>
+  </g>
 
-  <!-- Right Column (Sp. Atk, Sp. Def, Speed) -->
-  <g transform="translate(630, 75)">
-    <!-- Sp. Attack -->
-    <g transform="translate(0, 0)">
-      <text x="0" y="16" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#c084fc">SP.ATK 🔮</text>
-      <text x="110" y="16" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#94a3b8">AI &amp; ML Pipelines</text>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#1e293b"/>
-      <rect x="250" y="4" width="198" height="14" rx="7" fill="#c084fc" filter="url(#bsGlow)"/>
-      <text x="520" y="16" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#c084fc">90%</text>
-    </g>
+  <!-- Metric 3: IndiaSkills Bronze -->
+  <g transform="translate(804, 68)">
+    <rect width="360" height="64" rx="10" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">REGIONAL TOURNAMENT</text>
+    <text x="16" y="48" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#fb923c">🥉 Bronze Medal</text>
+    <text x="344" y="46" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#94a3b8">IndiaSkills South</text>
+  </g>
 
-    <!-- Sp. Defense -->
-    <g transform="translate(0, 60)">
-      <text x="0" y="16" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#818cf8">SP.DEF 🔒</text>
-      <text x="110" y="16" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#94a3b8">Proxmox / Docker</text>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#1e293b"/>
-      <rect x="250" y="4" width="194" height="14" rx="7" fill="#818cf8" filter="url(#bsGlow)"/>
-      <text x="520" y="16" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#818cf8">88%</text>
-    </g>
+  <!-- ROW 2 -->
+  <!-- Metric 4: Mentorship Hours -->
+  <g transform="translate(36, 144)">
+    <rect width="360" height="64" rx="10" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">TECHNICAL INSTRUCTION</text>
+    <text x="16" y="48" font-family="'JetBrains Mono',monospace" font-size="16" font-weight="700" fill="#a78bfa">120+ Lab Hours</text>
+    <text x="344" y="46" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#94a3b8">Cisco Networking</text>
+  </g>
 
-    <!-- Speed -->
-    <g transform="translate(0, 120)">
-      <text x="0" y="16" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#ef4444">SPD ⚡</text>
-      <text x="110" y="16" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#94a3b8">Sub-5s Deployments</text>
-      <rect x="250" y="4" width="220" height="14" rx="7" fill="#1e293b"/>
-      <rect x="250" y="4" width="209" height="14" rx="7" fill="#ef4444" filter="url(#bsGlow)"/>
-      <text x="520" y="16" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="700" fill="#ef4444">95%</text>
-    </g>
+  <!-- Metric 5: Students Mentored -->
+  <g transform="translate(420, 144)">
+    <rect width="360" height="64" rx="10" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">ENGINEERS MENTORED</text>
+    <text x="16" y="48" font-family="'JetBrains Mono',monospace" font-size="16" font-weight="700" fill="#38bdf8">60+ Junior Students</text>
+    <text x="344" y="46" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#94a3b8">Hands-on Labs</text>
+  </g>
+
+  <!-- Metric 6: Production Stacks -->
+  <g transform="translate(804, 144)">
+    <rect width="360" height="64" rx="10" fill="#070b14" stroke="#1e293b" stroke-width="1"/>
+    <text x="16" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">PRODUCTION CODEBASES</text>
+    <text x="16" y="48" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#f43f5e">Sub-5s PWAs &amp; Audio</text>
+    <text x="344" y="46" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#94a3b8">OffSongs &amp; StarkWallet</text>
   </g>
 </svg>

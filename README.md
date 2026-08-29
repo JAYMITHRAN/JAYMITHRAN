@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Jaymithran Radhakrishnan — AI/ML Developer, Software Engineer, Network Systems Enthusiast" width="100%" />
+<img src="./assets/trainer-card.svg" alt="Pokédex Trainer Card: Jaymithran Radhakrishnan, ID #0899, B.Tech in Artificial Intelligence and Machine Learning" width="100%" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 <!-- INTERACTIVE SKILL ICONS STRIP                                  -->
 <!-- ============================================================ -->
 
-<a href="#-battle-moveset--elemental-tech-matrix">
+<a href="#-technical-stack--domain-capabilities">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,tailwind,bootstrap,vite,fastapi,express,nodejs,mysql,mongodb,firebase,git,github,docker,linux,postman&theme=dark" alt="Jaymithran's Skills" />
 </a>
 
@@ -28,25 +28,13 @@
 <br/>
 
 <!-- ============================================================ -->
-<!-- POKÉDEX ENTRY: TRAINER PROFILE                                 -->
+<!-- TECHNICAL STACK & DOMAIN CAPABILITIES                          -->
 <!-- ============================================================ -->
 
-## ⚡ POKÉDEX ENTRY — TRAINER PROFILE
+## ⚔️ TECHNICAL STACK & DOMAIN CAPABILITIES
 
 <div align="center">
-<img src="./assets/trainer-card.svg" alt="Pokédex Trainer Card: Jaymithran Radhakrishnan, ID #0899, B.Tech in Artificial Intelligence and Machine Learning" width="100%" />
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- BATTLE MOVESET: ELEMENTAL TECH MATRIX                          -->
-<!-- ============================================================ -->
-
-## ⚔️ BATTLE MOVESET — ELEMENTAL TECH MATRIX
-
-<div align="center">
-<img src="./assets/moveset.svg" alt="Elemental Tech Moveset: Electric Languages, Psychic AI/ML, Steel Networking & Infrastructure, Water and Ground Frameworks and Databases" width="100%" />
+<img src="./assets/moveset.svg" alt="Technical Stack: Core Languages, Machine Intelligence, Infrastructure and Defense, and Modern Applications and Storage" width="100%" />
 </div>
 
 <br/>
@@ -55,7 +43,7 @@
 <!-- GYM BADGES & REGIONAL HALL OF FAME                             -->
 <!-- ============================================================ -->
 
-## 🏆 GYM BADGES — REGIONAL HALL OF FAME
+## 🏆 GYM BADGES & REGIONAL HALL OF FAME
 
 <div align="center">
 <img src="./assets/gym-badges.svg" alt="Verified Gym Badges: TN State Gold Medalist, IndiaSkills South Region Bronze Medalist, BIT B.Tech AI/ML Academy Credentials, and Battle Academy Trainer License" width="100%" />
@@ -64,13 +52,13 @@
 <br/>
 
 <!-- ============================================================ -->
-<!-- POKÉDEX BASE STATS                                             -->
+<!-- VERIFIED METRICS & PERFORMANCE HIGHLIGHTS                      -->
 <!-- ============================================================ -->
 
-## 📊 POKÉDEX BASE STATS — BATTLE CAPABILITIES
+## 📊 VERIFIED METRICS & PERFORMANCE HIGHLIGHTS
 
 <div align="center">
-<img src="./assets/base-stats.svg" alt="Pokédex Combat Stats: HP 100%, Attack 85%, Defense 100%, Special Attack 90%, Special Defense 88%, Speed 95%" width="100%" />
+<img src="./assets/base-stats.svg" alt="Verified Metrics: 8.99 CGPA, 1st Prize Gold Medal, IndiaSkills Bronze Medal, 120+ Lab Hours, 60+ Engineers Mentored, and Production Stacks" width="100%" />
 </div>
 
 <br/>
@@ -116,31 +104,15 @@
 
 </div>
 
-<br/>
-
 <!-- ============================================================ -->
-<!-- CHALLENGE THE TRAINER & POKÉGEAR COMMS                         -->
+<!-- FOOTER SIGN-OFF                                                -->
 <!-- ============================================================ -->
-
-## 🎮 CHALLENGE THE TRAINER — POKÉGEAR COMMS
 
 <div align="center">
-
-> **Ready to team up or battle?**<br/>
-> Open for **AI/ML Research & Collaboration**, **Software Engineering Roles**, **Network Infrastructure Projects**, and **Technical Discussions & Mentorship**.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Jaymithran_R-0b1220?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0b1220)](https://jaymithran.github.io/PortFolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-JAYMITHRAN-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=0b1220)](https://github.com/JAYMITHRAN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaymithran--r-0b1220?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0b1220)](https://linkedin.com/in/jaymithran-r/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-JAYMITHRAN__RY-0b1220?style=for-the-badge&logo=leetcode&logoColor=facc15&labelColor=0b1220)](https://leetcode.com/u/JAYMITHRAN_RY)
-[![Email](https://img.shields.io/badge/Email-r.jaymithran1036-0b1220?style=for-the-badge&logo=gmail&logoColor=ef4444&labelColor=0b1220)](mailto:r.jaymithran1036@gmail.com)
-
-<br/><br/>
 
 ---
 
 <sub>⚡ ELECTRIC ⚡ / 🛡️ STEEL / 🧠 PSYCHIC — <b>Gotta Build 'Em All</b></sub>
 
 </div>
+

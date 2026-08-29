@@ -1,13 +1,13 @@
-<svg viewBox="0 0 1200 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="msTitle msDesc">
-  <title id="msTitle">Elemental Battle Moveset — Tech Stack</title>
-  <desc id="msDesc">Four glassmorphism HUD cards grouping technology skills by Pokémon elemental affinities: Electric (Languages), Psychic (AI/ML), Steel (Networking and Infrastructure), and Water/Ground (Frameworks and Databases).</desc>
+<svg viewBox="0 0 1200 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="msTitle msDesc">
+  <title id="msTitle">Technical Stack &amp; Domain Capabilities</title>
+  <desc id="msDesc">Four domain cards grouping technologies by specialization: Core Languages, Machine Intelligence, Infrastructure and Defense, and Modern Applications and Storage without arbitrary ratings.</desc>
   <defs>
     <linearGradient id="msBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050810"/>
       <stop offset="100%" stop-color="#0b1120"/>
     </linearGradient>
-    <filter id="msGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <filter id="msGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <pattern id="msGrid" width="30" height="30" patternUnits="userSpaceOnUse">
@@ -15,166 +15,139 @@
     </pattern>
   </defs>
 
-  <rect width="1200" height="480" fill="url(#msBg)"/>
-  <rect width="1200" height="480" fill="url(#msGrid)"/>
+  <rect width="1200" height="440" fill="url(#msBg)"/>
+  <rect width="1200" height="440" fill="url(#msGrid)"/>
 
-  <!-- ================= CARD 1: ELECTRIC (LANGUAGES) ================= -->
+  <!-- ================= CARD 1: CORE LANGUAGES ================= -->
   <g transform="translate(30, 20)">
-    <rect width="560" height="210" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#facc15" stroke-width="1.3" filter="url(#msGlow)"/>
-    <!-- Header -->
+    <rect width="560" height="190" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#facc15" stroke-width="1.3" filter="url(#msGlow)"/>
     <rect x="0" y="0" width="560" height="4" rx="2" fill="#facc15"/>
-    <text x="24" y="32" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#fde047" letter-spacing="1">⚡ ELECTRIC TYPE — CORE LOGIC &amp; LANGUAGES</text>
+    <text x="24" y="30" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#fde047" letter-spacing="1">⚡ CORE LANGUAGES &amp; LOGIC</text>
     
-    <!-- Item 1: Python -->
-    <g transform="translate(24, 60)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Python</text>
-      <rect x="160" y="4" width="300" height="12" rx="6" fill="#1e293b"/>
-      <rect x="160" y="4" width="300" height="12" rx="6" fill="#facc15"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fde047">100%</text>
+    <!-- Python -->
+    <g transform="translate(24, 52)">
+      <rect x="0" y="0" width="80" height="22" rx="6" fill="#facc15" fill-opacity="0.15" stroke="#facc15" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fde047">Python</text>
+      <text x="95" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">AI/ML Pipelines, AST Code Analysis, Automation</text>
     </g>
 
-    <!-- Item 2: Java -->
-    <g transform="translate(24, 98)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Java</text>
-      <rect x="160" y="4" width="300" height="12" rx="6" fill="#1e293b"/>
-      <rect x="160" y="4" width="300" height="12" rx="6" fill="#facc15"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fde047">100%</text>
+    <!-- Java -->
+    <g transform="translate(24, 84)">
+      <rect x="0" y="0" width="80" height="22" rx="6" fill="#facc15" fill-opacity="0.15" stroke="#facc15" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fde047">Java</text>
+      <text x="95" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Object-Oriented Architecture, Enterprise Design</text>
     </g>
 
-    <!-- Item 3: C -->
-    <g transform="translate(24, 136)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">C</text>
-      <rect x="160" y="4" width="300" height="12" rx="6" fill="#1e293b"/>
-      <rect x="160" y="4" width="255" height="12" rx="6" fill="#fbbf24"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fbbf24">85%</text>
+    <!-- C -->
+    <g transform="translate(24, 116)">
+      <rect x="0" y="0" width="80" height="22" rx="6" fill="#facc15" fill-opacity="0.15" stroke="#facc15" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fde047">C</text>
+      <text x="95" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Memory Management, Low-Level Data Structures</text>
     </g>
 
-    <!-- Item 4: JavaScript -->
-    <g transform="translate(24, 174)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">JavaScript</text>
-      <rect x="160" y="4" width="300" height="12" rx="6" fill="#1e293b"/>
-      <rect x="160" y="4" width="265" height="12" rx="6" fill="#fbbf24"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fbbf24">88%</text>
+    <!-- JavaScript -->
+    <g transform="translate(24, 148)">
+      <rect x="0" y="0" width="80" height="22" rx="6" fill="#facc15" fill-opacity="0.15" stroke="#facc15" stroke-width="1"/>
+      <text x="40" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fde047">JavaScript</text>
+      <text x="95" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Asynchronous Systems, Modern ES6+, DOM Engines</text>
     </g>
   </g>
 
-  <!-- ================= CARD 2: PSYCHIC (AI / MACHINE LEARNING) ================= -->
+  <!-- ================= CARD 2: AI / MACHINE LEARNING ================= -->
   <g transform="translate(610, 20)">
-    <rect width="560" height="210" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#c084fc" stroke-width="1.3" filter="url(#msGlow)"/>
-    <!-- Header -->
+    <rect width="560" height="190" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#c084fc" stroke-width="1.3" filter="url(#msGlow)"/>
     <rect x="0" y="0" width="560" height="4" rx="2" fill="#c084fc"/>
-    <text x="24" y="32" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#e9d5ff" letter-spacing="1">🧠 PSYCHIC TYPE — MACHINE INTELLIGENCE</text>
+    <text x="24" y="30" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#e9d5ff" letter-spacing="1">🧠 MACHINE INTELLIGENCE &amp; AI/ML</text>
     
-    <!-- Item 1: Neural Architectures -->
-    <g transform="translate(24, 60)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Neural Architectures</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="250" height="12" rx="6" fill="#c084fc"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e9d5ff">88%</text>
+    <!-- Item 1 -->
+    <g transform="translate(24, 52)">
+      <circle cx="6" cy="11" r="3.5" fill="#c084fc"/>
+      <text x="18" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#f8fafc">Neural Network Architecture Design</text>
+      <text x="18" y="30" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#94a3b8">Model training, loss optimization &amp; predictive pipelines</text>
     </g>
 
-    <!-- Item 2: AST Static Parsers -->
-    <g transform="translate(24, 98)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">AST Static Parsers</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="270" height="12" rx="6" fill="#c084fc"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e9d5ff">95%</text>
+    <!-- Item 2 -->
+    <g transform="translate(24, 102)">
+      <circle cx="6" cy="11" r="3.5" fill="#c084fc"/>
+      <text x="18" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#f8fafc">AST Static Code Intelligence</text>
+      <text x="18" y="30" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#94a3b8">Syntactic tree parsing &amp; algorithmic complexity analysis</text>
     </g>
 
-    <!-- Item 3: Predictive Pipelines -->
-    <g transform="translate(24, 136)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Predictive AI Pipelines</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="255" height="12" rx="6" fill="#c084fc"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e9d5ff">90%</text>
-    </g>
-
-    <!-- Item 4: Static Code Analysis -->
-    <g transform="translate(24, 174)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Static Code Analysis</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="265" height="12" rx="6" fill="#c084fc"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e9d5ff">92%</text>
+    <!-- Item 3 -->
+    <g transform="translate(24, 150)">
+      <circle cx="6" cy="11" r="3.5" fill="#c084fc"/>
+      <text x="18" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#f8fafc">Automated Processing Pipelines</text>
+      <text x="18" y="28" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#94a3b8">End-to-end data transformation &amp; inference workflows</text>
     </g>
   </g>
 
-  <!-- ================= CARD 3: STEEL (NETWORKING & INFRA) ================= -->
-  <g transform="translate(30, 250)">
-    <rect width="560" height="210" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#22d3ee" stroke-width="1.3" filter="url(#msGlow)"/>
-    <!-- Header -->
+  <!-- ================= CARD 3: SYSTEMS & NETWORKING ================= -->
+  <g transform="translate(30, 230)">
+    <rect width="560" height="190" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#22d3ee" stroke-width="1.3" filter="url(#msGlow)"/>
     <rect x="0" y="0" width="560" height="4" rx="2" fill="#22d3ee"/>
-    <text x="24" y="32" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#67e8f9" letter-spacing="1">🛡️ STEEL TYPE — INFRASTRUCTURE &amp; DEFENSE</text>
+    <text x="24" y="30" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#67e8f9" letter-spacing="1">🛡️ SYSTEMS, DEFENSE &amp; NETWORKING</text>
     
-    <!-- Item 1: Cisco & Juniper -->
-    <g transform="translate(24, 60)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Cisco &amp; Juniper Routing</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#22d3ee"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">100%</text>
+    <!-- Item 1 -->
+    <g transform="translate(24, 52)">
+      <rect x="0" y="0" width="130" height="22" rx="6" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">Cisco &amp; Juniper</text>
+      <text x="145" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Enterprise Routing, VLANs, ACLs &amp; NAT</text>
     </g>
 
-    <!-- Item 2: pfSense Firewall -->
-    <g transform="translate(24, 98)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">pfSense Hardened Firewalls</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#22d3ee"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">100%</text>
+    <!-- Item 2 -->
+    <g transform="translate(24, 84)">
+      <rect x="0" y="0" width="130" height="22" rx="6" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">pfSense Firewall</text>
+      <text x="145" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Stateful Inspection, WireGuard Encrypted Tunnels</text>
     </g>
 
-    <!-- Item 3: Proxmox Virtualization -->
-    <g transform="translate(24, 136)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Proxmox VE Hypervisors</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="265" height="12" rx="6" fill="#22d3ee"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">92%</text>
+    <!-- Item 3 -->
+    <g transform="translate(24, 116)">
+      <rect x="0" y="0" width="130" height="22" rx="6" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">Proxmox VE</text>
+      <text x="145" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Bare-Metal Hypervisors, Cluster Segmentation</text>
     </g>
 
-    <!-- Item 4: Linux & Docker -->
-    <g transform="translate(24, 174)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Linux &amp; Docker Sandboxes</text>
-      <rect x="175" y="4" width="285" height="12" rx="6" fill="#1e293b"/>
-      <rect x="175" y="4" width="275" height="12" rx="6" fill="#22d3ee"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">96%</text>
+    <!-- Item 4 -->
+    <g transform="translate(24, 148)">
+      <rect x="0" y="0" width="130" height="22" rx="6" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1"/>
+      <text x="65" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#67e8f9">Linux &amp; Docker</text>
+      <text x="145" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Kernel Administration, Containerized Sandboxes</text>
     </g>
   </g>
 
-  <!-- ================= CARD 4: WATER & GROUND (FRAMEWORKS & DB) ================= -->
-  <g transform="translate(610, 250)">
-    <rect width="560" height="210" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#38bdf8" stroke-width="1.3" filter="url(#msGlow)"/>
-    <!-- Header -->
+  <!-- ================= CARD 4: APPS & STORAGE ================= -->
+  <g transform="translate(610, 230)">
+    <rect width="560" height="190" rx="14" fill="#0b1220" fill-opacity="0.65" stroke="#38bdf8" stroke-width="1.3" filter="url(#msGlow)"/>
     <rect x="0" y="0" width="560" height="4" rx="2" fill="#38bdf8"/>
-    <text x="24" y="32" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#7dd3fc" letter-spacing="1">💧 WATER &amp; 🪨 GROUND — APPS &amp; STORAGE</text>
+    <text x="24" y="30" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#7dd3fc" letter-spacing="1">💧 MODERN APPLICATIONS &amp; STORAGE</text>
     
-    <!-- Item 1: React & React Native -->
-    <g transform="translate(24, 60)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">React &amp; React Native (PWA)</text>
-      <rect x="185" y="4" width="275" height="12" rx="6" fill="#1e293b"/>
-      <rect x="185" y="4" width="250" height="12" rx="6" fill="#38bdf8"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#7dd3fc">90%</text>
+    <!-- Item 1 -->
+    <g transform="translate(24, 52)">
+      <rect x="0" y="0" width="125" height="22" rx="6" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
+      <text x="62" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#7dd3fc">React &amp; Native</text>
+      <text x="140" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Sub-5s PWAs, Mobile Audio Players &amp; EAS Cloud</text>
     </g>
 
-    <!-- Item 2: FastAPI & Express -->
-    <g transform="translate(24, 98)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">FastAPI &amp; Express.js APIs</text>
-      <rect x="185" y="4" width="275" height="12" rx="6" fill="#1e293b"/>
-      <rect x="185" y="4" width="265" height="12" rx="6" fill="#38bdf8"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#7dd3fc">95%</text>
+    <!-- Item 2 -->
+    <g transform="translate(24, 84)">
+      <rect x="0" y="0" width="125" height="22" rx="6" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
+      <text x="62" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#7dd3fc">FastAPI &amp; Node</text>
+      <text x="140" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">High-Throughput REST APIs, Role-Based Auth</text>
     </g>
 
-    <!-- Item 3: Tailwind CSS & HTML5 -->
-    <g transform="translate(24, 136)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Tailwind CSS &amp; HTML5/CSS3</text>
-      <rect x="185" y="4" width="275" height="12" rx="6" fill="#1e293b"/>
-      <rect x="185" y="4" width="275" height="12" rx="6" fill="#38bdf8"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#7dd3fc">100%</text>
+    <!-- Item 3 -->
+    <g transform="translate(24, 116)">
+      <rect x="0" y="0" width="125" height="22" rx="6" fill="#38bdf8" fill-opacity="0.15" stroke="#38bdf8" stroke-width="1"/>
+      <text x="62" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#7dd3fc">Tailwind CSS</text>
+      <text x="140" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Responsive Design Systems, High-Aesthetic UIs</text>
     </g>
 
-    <!-- Item 4: MySQL, MongoDB & Firebase -->
-    <g transform="translate(24, 174)">
-      <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="600" fill="#f8fafc">MySQL • MongoDB • Firebase</text>
-      <rect x="185" y="4" width="275" height="12" rx="6" fill="#1e293b"/>
-      <rect x="185" y="4" width="250" height="12" rx="6" fill="#f59e0b"/>
-      <text x="480" y="14" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fbbf24">90%</text>
+    <!-- Item 4 -->
+    <g transform="translate(24, 148)">
+      <rect x="0" y="0" width="125" height="22" rx="6" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1"/>
+      <text x="62" y="15" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#fbbf24">MySQL &amp; Mongo</text>
+      <text x="140" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#cbd5e1">Relational &amp; Document Schemas, Firebase Store</text>
     </g>
   </g>
 </svg>
